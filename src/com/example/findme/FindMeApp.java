@@ -11,7 +11,7 @@ public class FindMeApp extends Application {
 	public void onCreate() {
 		super.onCreate();
 
-		ParseObject.registerSubclass(Notice.class);
+		ParseObject.registerSubclass(Templates.class);
 
 		Parse.initialize(this, "XaleNqb8plMKReJIkuAwbokajOkcKo1RkOGdPUcN", "EqxiSF75OYaPQcOMYRR3K8yJursh6sbyHSLpldTT");
 	}

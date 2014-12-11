@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="super_unicum">#D042F3</color>
+    <color name="unicum">#4a92b7</color>
+    <color name="excellent">#02c9b3</color>
+    <color name="very_good">#2ecc71</color>
+    <color name="good">#00CC00</color>
+    <color name="above_avg">#ffff00</color>
+    <color name="below_avg">#D77900</color>
+    <color name="bad">#FE0E00</color>
+    <color name="very_bad">#5e0000</color>
+    
+    
+    <color name="light_font">#FBFBFB</color>
+    <color name="grey_font">#ff9e9e9e</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="text_shadow_white">#FFFFFF</color>
+    
+    
+    <color name="orange">#f39c12</color>
+    <color name="yellow">#ffff00</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="dark">#777</color>
+    <color name="button_normal_color">#bdc3c7</color>
+    <color name="button_pressed_color">#adb3b7</color>
+    
+    <color name="green_button_color">#16a085</color>
+    <color name="red_button_color">#d35400</color>
+    <color name="replay_group_background_color"> #1abc9c</color>
+    
+    <color name="whogoesfirst_button_normal_color">#e74c3c</color>
+    <color name="whogoesfirst_button_pressed_color">#d73c2c</color>
+    <color name="whogoesfirst_button_disabled_color">#ccc</color>
+    
+    <color name="transparent">#00ffffff</color>
+    <color name="background_color">#dde</color>
+    
+    <color name="background_table">#ded4e0</color>
+    
+</resources>
